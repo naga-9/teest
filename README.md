@@ -1,5 +1,11 @@
-- Where are we? Trend, distance from the 20-day extremes, overhead, and the levels left by recent heavy bars (7a). Before looking at today.
-- Where was the effort spent? The recent vr cluster — read as a sequence, not a max. Including the case where the effort is conspicuously absent.
-- What did it produce? Net progress across the whole run, with a sign. This is the edge.
-- Is today confirming or denying? cp lives here, last.
-- Where's the cheap bar and what kills it? Low sr near a level, so the stop is small — and name the invalidation price.
+Where are we? Trend, 20-day extremes, overhead, levels from recent heavy bars (7a). Before today.
+
+Where was the effort spent? vr as a sequence, not a max. Absence counts.
+
+What did it produce? Net progress from the anchor, with a sign — and what the move cost. Both directions of the mirror.
+
+Confirming or denying? cp last. Then the best argument against.
+
+Where's the cheap bar and what kills it? Low sr near a level; name the invalidation price.
+
+The decision. Direction first, then entry, stop, exit.
