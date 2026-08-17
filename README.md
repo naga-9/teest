@@ -11,5 +11,5 @@ Where's the cheap bar and what kills it? Low sr near a level; name the invalidat
 The decision. Direction first, then entry, stop, exit.
 
 
-result:   (end price − start price) / start price     →  a %
-effort:  average the effort column directly      →  a ×
+effort  =  mean of the `effort` column over the run        →  a ×
+result  =  (close_now − close_anchor) / close_anchor       →  a %
