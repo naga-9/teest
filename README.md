@@ -12,4 +12,5 @@ The decision. Direction first, then entry, stop, exit.
 
 
 effort  =  mean of the `effort` column over the run        →  a ×
+
 result  =  (close_now − close_anchor) / close_anchor       →  a %
