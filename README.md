@@ -9,3 +9,7 @@ Confirming or denying? cp last. Then the best argument against.
 Where's the cheap bar and what kills it? Low sr near a level; name the invalidation price.
 
 The decision. Direction first, then entry, stop, exit.
+
+
+result:   (end price − start price) / start price     →  a %
+effort:  average the effort column directly      →  a ×
